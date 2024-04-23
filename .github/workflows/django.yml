@@ -14,4 +14,3 @@ jobs:
           script: |
             cd /home/srilankakim66/django-todolist/ToDoList
             git pull origin main
-            sudo systemctl restart uwsgi
